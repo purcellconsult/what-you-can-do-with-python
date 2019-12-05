@@ -2,7 +2,7 @@
 
 From my research the common career paths in python are:
 
--	Web development
+-	[Web development](https://github.com/purcellconsult/what-you-can-do-with-python/blob/master/python-careers.md#python-web-developert
 -	Data science
 -	Data analyst
 -	General scripting 
