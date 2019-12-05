@@ -1,15 +1,33 @@
-## What You Can Do With Python? 
+## Common Careers in Python
 
-A many tech workshops I get asked a common question of what are the things I can do with python? Well, sense this question gets asked on a recurring basis I decided to do a deep dive into this question. The simple answer is that by being a proficient python developer you can find work at a tech company. But, after further thinking it over I feel like that answer is a tad bit trite. So, I did some more research.
+From my research the common career paths in python are:
 
-Since there are many online databases that contain jobs for python developers I decided to do extensive research on this subject and create this project on GitHub. This project has three components; two high level portions, and one low level one.
+-	Web development
+-	Data science
+-	Data analyst
+-	General scripting 
 
- - [Software engineering careers with python](test). 
- - [Resources for those who want a career.](test)  
- - [Code snippets](test) to illustrate some of the popular libraries,  frameworks, etc, requested by employers.
+Below is a listing of the job titles along with a list of the common skills associated with them. Like most jobs, it's
+not necessary that you have all of the skills to do the job. However, my philosophy is that there's no harm in being over prepared. 
 
-I believe it’s a solid strategy to understand the common jobs of python developers. Developers work at companies, and companies create products/services to solve a problem. If the company is consistently profitable then perhaps they’re doing a decent job of solving whatever problem is on hand.
- 
-So, by researching common jobs of a python dev and analyzing companies that they work for we can start creating a more lucid picture of what you can accomplish with python. 
+## Python Web Developer 
 
-This project is a work in progress. Contributors and constructive criticism is highly encouraged. 
+- Python, Django. 
+- Knowledge of the Django-REST Framework (DRF) and ORM.
+- Familiarity with other python web frameworks such as Flask, Webapp2, Web2y, Bottle, and Pyramid. 
+- SQL knowledge (queries, joins, etc). 
+- Git/GitHub expertise. 
+- Relational database experience (RDBMs) such as PostgreSQL or MySQL, and NoSQL databases such as Cassandra, MongoDB, and Redis.
+- Experience with Amazon Web services (AWS) / cloud hosting, and deployments.  
+- Knowledge of CI/CD AND DevOPs tools. 
+- Strong REST API skills (both creating endpoints and working with 3rd party APIs – JSON is typically required). 
+- Proficient with modern web technologies like JavaScript, JQuery, React.js, Angular.js, Node.js, Vue, HTML5, CSS3, Bootstrap, and Typescript. 
+- Test driven development tools: pytest, Enzyme, and Jest. 
+- Concurrency and multithreading knowledge. 
+- Experience with RabbitMQ, ZeroMQ, and Celery. 
+- Containerization technologies such as Kubernetes and Docker. 
+- Continuous Integration and deployment tools such as Jenkins, Travis, and CircleCI. 
+- Linux/Unix shell and network expertise. 
+- Frontend and backend debuggers know-how. 
+- Experience designing fault tolerant scalable systems.
+- Understand the importance of documenting features, writing tests, and maintaining a high quality codebase.
